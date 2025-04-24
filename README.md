@@ -30,11 +30,11 @@
 
 ```css
 const developer = {
-  name: "Your Name",
-  location: "City, Country",
+  name: "Reuben Kariuki",
+  location: "Nairobi, Kenya",
   focus: "Building digital experiences that matter",
   workingOn: "Projects that challenge the status quo",
-  learning: ["New Technology", "Another Skill"],
+  learning: ["Python Django", "System Development"],
   askMeAbout: ["Web Dev", "Tech", "Photography", "Coffee"],
   funFact: "I can solve a Rubik's cube in under 2 minutes"
 };
@@ -111,15 +111,6 @@ I believe that `code` is poetry in logic, and I strive to write elegant verses. 
 
 ---
 
-## 💡 My Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](https://your-blog.com/post-1)
-- [Another Interesting Article](https://your-blog.com/post-2)
-- [Something Technical You Wrote](https://your-blog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📈 Weekly Development Breakdown
 
