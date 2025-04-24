@@ -45,7 +45,7 @@ I believe that `code` is poetry in logic, and I strive to write elegant verses. 
 <details>
 <summary>📊 <b>My Coding Journey</b></summary>
 <br>
-<p>I began my coding adventure when [brief story about how you started]. Since then, I've been passionate about [what drives you in tech].</p>
+<p>I began my coding adventure when [brief story about how you started]. Since then, I've been passionate about coding.</p>
 
 <p>Every project is an opportunity to learn something new and push the boundaries of what's possible.</p>
 </details>
@@ -75,16 +75,16 @@ I believe that `code` is poetry in logic, and I strive to write elegant verses. 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&show_icons=true&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&show_icons=true&hide_border=true&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skripta-ke&theme=radical&show_icons=true&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skripta-ke&theme=radical&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=skripta-ke&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skripta-ke&theme=radical&hide_border=true">
 </div>
 
 ---
@@ -93,10 +93,10 @@ I believe that `code` is poetry in logic, and I strive to write elegant verses. 
 
 <div align="center">
   <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skripta-ke&repo=project-1&theme=radical">
   </a>
   <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skripta-ke&repo=project-2&theme=radical">
   </a>
 </div>
 
